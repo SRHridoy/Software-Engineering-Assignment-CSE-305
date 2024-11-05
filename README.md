@@ -68,6 +68,17 @@ To ensure a comprehensive understanding of the project requirements, the followi
 
 ---
 
+## Class Diagram
+
+The following class diagram illustrates the architecture of the **SafeCampus** application, showcasing the key classes involved in the system, their attributes, and the relationships between them. This diagram helps visualize the structure and design of the application.
+
+<br>
+<p align="center">
+  <img src="arr.drawio.png" alt="Class Diagram of SafeCampus" width="500" height="400">
+</p>
+
+---
+
 ## Sample Test Case
 
 | Test Case ID | Description                       | Pre-Condition               | Steps                                                                                       | Expected Result                   |
@@ -95,18 +106,6 @@ To ensure a comprehensive understanding of the project requirements, the followi
 | **Deployment and Review**  | 1 Week   |
 
 ---
-
-<br>
-
-### Class Diagram
-
-The following class diagram illustrates the architecture of the **SafeCampus** application, showcasing the key classes involved in the system, their attributes, and the relationships between them. This diagram helps visualize the structure and design of the application.
-<br>
-<p align="center">
-  <img src="arr.drawio.png" alt="Class Diagram of SafeCampus" width="500" height="400">
-</p>
-
-<br>
 
 ## Applying the Agile SDLC Model
 
